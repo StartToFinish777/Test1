@@ -257,7 +257,7 @@ namespace Test1
             Console.Write("  " +num1 * 2 + " + " + even + " (my number) = " + sum + " \n");
             Console.WriteLine();
 
-            Console.Write("  " + sum + " Devided by 2 = " + sum4 + " \n");
+            Console.Write("  " + sum + " Divided by 2 = " + sum4 + " \n");
             Console.WriteLine();
 
             Console.Write("  " + sum4 + " Minus / subtract your number ( "+num1+ ") = " +sum5+ " \n");
